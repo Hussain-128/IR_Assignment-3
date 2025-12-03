@@ -1,0 +1,42 @@
+{
+  "queries": {
+    "q1": "information retrieval systems",
+    "q2": "search engine algorithms",
+    "q3": "vector space model",
+    "q4": "tf-idf weighting"
+  },
+  "ground_truth": {
+    "q1": [
+      "doc1_ir_basics",
+      "doc2_search_engines"
+    ],
+    "q2": [
+      "doc2_search_engines"
+    ],
+    "q3": [
+      "doc3_vector_space_model",
+      "doc5_tfidf"
+    ],
+    "q4": [
+      "doc5_tfidf",
+      "doc3_vector_space_model"
+    ]
+  },
+  "relevance_scores": {
+    "q1": {
+      "doc1_ir_basics": 3,
+      "doc2_search_engines": 2
+    },
+    "q2": {
+      "doc2_search_engines": 3
+    },
+    "q3": {
+      "doc3_vector_space_model": 3,
+      "doc5_tfidf": 1
+    },
+    "q4": {
+      "doc5_tfidf": 3,
+      "doc3_vector_space_model": 2
+    }
+  }
+}

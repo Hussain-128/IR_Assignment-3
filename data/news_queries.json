@@ -1,0 +1,116 @@
+{
+  "queries": {
+    "q1": "oil prices crude petroleum",
+    "q2": "stock market karachi exchange",
+    "q3": "electricity power load shedding",
+    "q4": "petrol diesel fuel shortage",
+    "q5": "IMF Pakistan economy loan",
+    "q6": "dollar rupee exchange rate",
+    "q7": "gas CNG natural energy",
+    "q8": "bank finance investment",
+    "q9": "tax revenue government budget",
+    "q10": "Saudi Arabia OPEC production"
+  },
+  "ground_truth": {
+    "q1": [
+      "article_0156_5-21-2015",
+      "article_2653_2-28-2017",
+      "article_1021_9-30-2016",
+      "article_0345_11-4-2015",
+      "article_0050_2-13-2015"
+    ],
+    "q2": [
+      "article_0254_8-24-2015",
+      "article_0818_7-26-2016",
+      "article_0252_8-24-2015",
+      "article_2613_1-24-2017",
+      "article_0429_1-11-2016"
+    ],
+    "q3": [
+      "article_0032_2-4-2015",
+      "article_0484_2-22-2016",
+      "article_1009_9-27-2016",
+      "article_0123_4-24-2015",
+      "article_0730_6-20-2016"
+    ],
+    "q4": [
+      "article_0013_1-16-2015",
+      "article_0015_1-20-2015",
+      "article_0025_1-26-2015",
+      "article_0027_1-27-2015"
+    ],
+    "q5": [
+      "article_0031_2-5-2015",
+      "article_0025_1-26-2015"
+    ],
+    "q6": [
+      "article_0252_8-24-2015"
+    ],
+    "q7": [
+      "article_0000_1-1-2015"
+    ],
+    "q8": [
+      "article_0024_1-25-2015",
+      "article_0028_1-29-2015"
+    ],
+    "q9": [
+      "article_0030_1-31-2015",
+      "article_0017_1-22-2015"
+    ],
+    "q10": [
+      "article_0005_1-7-2015",
+      "article_0018_1-23-2015"
+    ]
+  },
+  "relevance_scores": {
+    "q1": {
+      "article_0156_5-21-2015": 3,
+      "article_2653_2-28-2017": 3,
+      "article_1021_9-30-2016": 3,
+      "article_0345_11-4-2015": 2,
+      "article_0050_2-13-2015": 2
+    },
+    "q2": {
+      "article_0254_8-24-2015": 3,
+      "article_0818_7-26-2016": 3,
+      "article_0252_8-24-2015": 3,
+      "article_2613_1-24-2017": 3,
+      "article_0429_1-11-2016": 3
+    },
+    "q3": {
+      "article_0032_2-4-2015": 3,
+      "article_0484_2-22-2016": 3,
+      "article_1009_9-27-2016": 3,
+      "article_0123_4-24-2015": 2,
+      "article_0730_6-20-2016": 2
+    },
+    "q4": {
+      "article_0013_1-16-2015": 3,
+      "article_0015_1-20-2015": 3,
+      "article_0025_1-26-2015": 2,
+      "article_0027_1-27-2015": 2
+    },
+    "q5": {
+      "article_0031_2-5-2015": 3,
+      "article_0025_1-26-2015": 2
+    },
+    "q6": {
+      "article_0252_8-24-2015": 3
+    },
+    "q7": {
+      "article_0000_1-1-2015": 3
+    },
+    "q8": {
+      "article_0024_1-25-2015": 3,
+      "article_0028_1-29-2015": 2
+    },
+    "q9": {
+      "article_0030_1-31-2015": 3,
+      "article_0017_1-22-2015": 2
+    },
+    "q10": {
+      "article_0005_1-7-2015": 3,
+      "article_0018_1-23-2015": 2
+    }
+  }
+}
